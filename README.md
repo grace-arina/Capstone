@@ -5,7 +5,7 @@
 Build model that predicts whether a skin lesion is benign, malignant, or unknown
 Classify dermoscopic images of skin lesions
 
-## Proposal 2: ***Classification of Sky Objects ***
+## Proposal 2: ***Classification of Sky Objects***
 - Dataset: https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17
 Classification, explore basic models: KNN, Logistic Regression, Naive Bayes, Linear SVC, and Decision Tree
 
